@@ -201,7 +201,4 @@ module.exports = connection;
 
 - Será validado que é possível transitar entre o chat particular e o chat global.
 
----
-
-# Avisos Finais
 
